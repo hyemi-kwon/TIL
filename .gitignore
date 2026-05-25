@@ -1,0 +1,34 @@
+# --- macOS 시스템 파일 ---
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# --- VS Code 설정 ---
+.vscode/
+
+# --- IntelliJ IDEA 설정 ---
+.idea/
+*.iml
+*.iws
+*.ipr
+*.iws
+out/
+gen/
+
+# --- Python (참고용) ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.env
+
+# --- 일반적인 운영체제 및 에디터 임시 파일 ---
+.tmp
+.log
+*.swp
+*~
